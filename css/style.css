@@ -1,0 +1,25 @@
+h1 {
+  color: orange;
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  line-height: 40px;
+  text-align: center;
+}
+h2{
+  color: blue;
+
+}
+img {
+  height: 250px;
+  width: 400px;
+}
+li {
+  font-size: 20px;
+  font-family:monospace;
+  line-height: 30px;
+}
+ol li {
+  font-style: italic;
+}
