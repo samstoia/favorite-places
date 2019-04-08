@@ -3,7 +3,7 @@ a simple webpage depicting various places we've been or would like to go.
 
 ## Setup/Installation Requirements
 
-* using command line, clone githum repo by typing: git clone https://github.com/samstoia/my-first-webpage
+* using command line, clone github repo by typing: git clone https://github.com/samstoia/my-first-webpage
 * find the file on your computer
 * open the desired html file in your browser.
 
